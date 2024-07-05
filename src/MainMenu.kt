@@ -3,7 +3,7 @@ import kotlin.system.exitProcess
 // main menu
 
 fun main() {
-    println("Orvar\n\n")  // prints out the menu
+    println("Orvar\n\n")
 
     println("1 = 'Start'")
     println("2 = 'Exit'\n")
