@@ -41,18 +41,8 @@ fun Page1() {
                 "Orvar 'Whatever.'\n\n" +
                 "You go to your room in anger. You sit on your bed staring at your wall when you remember that RV Erik's uncle is selling.\n\n" +
                 "(Next week I'll buy that RV and get a lighter and a hatchet from the basement then I'll get out of here.) \n\n" +
-                "One week goes by...\n\n" +
-                "" +
-                "" +
-                "" +
-                "" +
-                "" +
-                "" +
-                "" +
-                "" +
-                "" +
-                ""
-
-    )
+                "One week and 1 day goes by...\n\n Your alarm goes off at 5 am\n\n" +
+                "(I'm finally 18, time to get out of here)\n\n" +
+                "1. Sneak down to the basement | 2. Walk normally")
 }
 
