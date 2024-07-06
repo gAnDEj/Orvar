@@ -14,7 +14,7 @@ fun main() {
         Page1()
     }
 
-    if (choice == 2){
+    else if (choice == 2){
         exitProcess(0)
     } else{
         main()

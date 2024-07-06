@@ -45,13 +45,13 @@ fun Page1() {
                 "(I'm finally 18, time to get out of here)\n\n" +
                 "1. Sneak down to the basement | 2. Walk normally\n\n")
 
-    val choice1 = readln().toInt()
+    val choice1 = readln()
 
-    if (choice1 == 1){
+    if (choice1 == "1"){
         P1O1()
     }
 
-    if (choice1 == 2){
+    else if (choice1 == "2"){
         P1O2()
     } else{
         Page1()
