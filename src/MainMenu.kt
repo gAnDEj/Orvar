@@ -16,6 +16,8 @@ fun main() {
 
     if (choice == 2){
         exitProcess(0)
+    } else{
+        main()
     }
 }
 

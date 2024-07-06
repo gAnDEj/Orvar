@@ -43,6 +43,18 @@ fun Page1() {
                 "(Next week I'll buy that RV and get a lighter and a hatchet from the basement then I'll get out of here.) \n\n" +
                 "One week and 1 day goes by...\n\n Your alarm goes off at 5 am\n\n" +
                 "(I'm finally 18, time to get out of here)\n\n" +
-                "1. Sneak down to the basement | 2. Walk normally")
+                "1. Sneak down to the basement | 2. Walk normally\n\n")
+
+    val choice1 = readln().toInt()
+
+    if (choice1 == 1){
+        P1O1()
+    }
+
+    if (choice1 == 2){
+        P1O2()
+    } else{
+        Page1()
+    }
 }
 
