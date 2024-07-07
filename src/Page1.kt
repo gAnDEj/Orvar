@@ -17,8 +17,8 @@ fun Page1() {
                 "Boss 'If you ever come this late again, you're fired! Now go back to restocking shelves'\n" +
                 "\nYour boss walks away and you go to an empty shelf where all the stuff is in a box in front of it.\nYou feel a hand on your shoulder and startle a little bit\n\n" +
                 "Orvar 'Woah.'\n" +
-                "Erik 'It's just me, take it easy.'" +
-                "Orvar 'Oh, hey Erik.'" +
+                "Erik 'It's just me, take it easy.'\n" +
+                "Orvar 'Oh, hey Erik.'\n" +
                 "Erik 'Overheard our boss talking to your mom about firing you.'\n" +
                 "Orvar 'Ugh, I'm gonna get a lot of shit when I come home. I just want to get out of this place you know, like escape civilisation without leaving the country you know.'\n" +
                 "Erik 'Yeah I get that. Did you pass your driving test last week?'" +
@@ -43,7 +43,7 @@ fun Page1() {
                 "(Next week I'll buy that RV and get a lighter and a hatchet from the basement then I'll get out of here.) \n\n" +
                 "One week and 1 day goes by...\n\n Your alarm goes off at 5 am\n\n" +
                 "(I'm finally 18, time to get out of here)\n\n" +
-                "1. Sneak down to the basement | 2. Walk normally\n\n")
+                "1. Sneak down to the basement | 2. Wait until mom leaves\n\n")
 
     val choice1 = readln()
 
