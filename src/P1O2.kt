@@ -15,7 +15,7 @@ fun P1O2() {
     val decision = readln()
 
     if (decision == "1"){
-        TODO("make a new file")
+        Page2()
     }
 
     else if (decision == "2"){
